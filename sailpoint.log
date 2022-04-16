@@ -1,0 +1,90 @@
+2022-04-15T13:17:17,679  INFO main xmlManager.App:20 - APP_STARTED
+2022-04-15T13:17:17,681  INFO main xmlManager.App:21 - APP_FINISHED
+2022-04-15T13:43:05,922  INFO main xmlManager.App:22 - APP_STARTED
+2022-04-15T13:43:05,925  INFO main xmlManager.state.StateReading:20 - reading state
+2022-04-15T13:43:05,925  INFO main xmlManager.App:27 - APP_FINISHED
+2022-04-15T13:53:38,247  INFO main xmlManager.App:24 - APP_STARTED
+2022-04-15T13:53:38,344  INFO main xmlManager.state.StateReading:50 - reading state
+2022-04-15T13:53:38,344  INFO main xmlManager.App:29 - APP_FINISHED
+2022-04-15T13:54:15,233  INFO main xmlManager.App:24 - APP_STARTED
+2022-04-15T13:54:15,255  INFO main xmlManager.state.StateReading:50 - reading state
+2022-04-15T13:54:15,255  INFO main xmlManager.App:29 - APP_FINISHED
+2022-04-15T13:56:06,476  INFO main xmlManager.App:24 - APP_STARTED
+2022-04-15T13:56:06,499  INFO main xmlManager.state.StateReading:49 - reading state
+2022-04-15T13:56:06,500  INFO main xmlManager.App:29 - APP_FINISHED
+2022-04-15T14:20:30,934  INFO main xmlManager.App:26 - APP_STARTED
+2022-04-15T14:20:30,938  INFO main xmlManager.command.read.XmlReader:13 - read command executing
+2022-04-15T14:20:30,938  INFO main xmlManager.App:41 - APP_FINISHED
+2022-04-15T16:26:24,657  INFO main xmlManager.App:26 - APP_STARTED
+2022-04-15T16:26:24,664  INFO main xmlManager.App:41 - APP_FINISHED
+2022-04-15T16:27:11,518  INFO main xmlManager.App:26 - APP_STARTED
+2022-04-15T16:27:11,521  INFO main xmlManager.command.read.ReadXml:25 - read xml
+2022-04-15T16:27:11,525  INFO main xmlManager.App:41 - APP_FINISHED
+2022-04-15T16:28:45,900  INFO main xmlManager.App:26 - APP_STARTED
+2022-04-15T16:28:45,905  INFO main xmlManager.command.read.ReadXml:25 - read xml
+2022-04-15T16:28:45,908  INFO main xmlManager.events.EventsReceiver:67 - fire_events
+2022-04-15T16:28:45,909  INFO main xmlManager.App:41 - APP_FINISHED
+2022-04-15T16:32:00,308  INFO main xmlManager.App:26 - APP_STARTED
+2022-04-15T16:32:00,312  INFO main xmlManager.command.read.ReadXml:25 - read xml
+2022-04-15T16:32:00,316  INFO main xmlManager.events.EventsReceiver:67 - fire_events
+2022-04-15T16:32:00,316  INFO main xmlManager.event.read.ReadXmlEvent:21 - firing event
+2022-04-15T16:32:00,316  INFO main xmlManager.Observer:54 - fire imported dcoument added
+2022-04-15T16:32:00,316  INFO main xmlManager.App:41 - APP_FINISHED
+2022-04-15T16:36:16,462  INFO main xmlManager.App:28 - APP_STARTED
+2022-04-15T16:36:16,466  INFO main xmlManager.command.read.ReadXml:25 - read xml
+2022-04-15T16:36:16,470  INFO main xmlManager.events.EventsReceiver:67 - fire_events
+2022-04-15T16:36:16,470  INFO main xmlManager.event.read.ReadXmlEvent:21 - firing event
+2022-04-15T16:36:16,471  INFO main xmlManager.Observer:54 - fire imported dcoument added
+2022-04-15T16:36:16,471  INFO main xmlManager.App:43 - APP_FINISHED
+2022-04-15T16:48:26,940  INFO main xmlManager.App:28 - APP_STARTED
+2022-04-15T16:48:26,943  INFO main xmlManager.command.read.ReadXml:25 - read xml
+2022-04-15T16:48:26,948  INFO main xmlManager.events.EventsReceiver:67 - fire_events
+2022-04-15T16:48:26,948  INFO main xmlManager.event.read.ReadXmlEvent:21 - firing event
+2022-04-15T16:48:26,948  INFO main xmlManager.Observer:54 - fire imported dcoument added
+2022-04-15T16:48:26,948  INFO main xmlManager.App:43 - APP_FINISHED
+2022-04-15T16:54:50,612  INFO main xmlManager.App:28 - APP_STARTED
+2022-04-15T16:54:50,618  INFO main xmlManager.command.read.ReadXml:25 - read xml
+2022-04-15T16:54:50,622  INFO main xmlManager.events.EventsReceiver:67 - fire_events
+2022-04-15T16:54:50,622  INFO main xmlManager.event.read.ReadXmlEvent:21 - firing event
+2022-04-15T16:54:50,622  INFO main xmlManager.Observer:54 - fire imported dcoument added
+2022-04-15T16:54:50,623  INFO main xmlManager.App:43 - APP_FINISHED
+2022-04-15T16:59:41,402  INFO main xmlManager.App:28 - APP_STARTED
+2022-04-15T16:59:41,406  INFO main xmlManager.command.read.ReadXml:25 - read xml
+2022-04-15T16:59:41,409  INFO main xmlManager.events.EventsReceiver:67 - fire_events
+2022-04-15T16:59:41,409  INFO main xmlManager.event.read.ReadXmlEvent:21 - firing event
+2022-04-15T16:59:41,410  INFO main xmlManager.Observer:54 - fire imported dcoument added
+2022-04-15T16:59:41,410  INFO main xmlManager.App:43 - APP_FINISHED
+2022-04-15T17:00:40,406  INFO main xmlManager.App:28 - APP_STARTED
+2022-04-15T17:00:40,410  INFO main xmlManager.command.read.ReadXml:25 - read xml
+2022-04-15T17:00:40,414  INFO main xmlManager.events.EventsReceiver:67 - fire_events
+2022-04-15T17:00:40,414  INFO main xmlManager.event.read.ReadXmlEvent:21 - firing event
+2022-04-15T17:00:40,415  INFO main xmlManager.Observer:54 - fire imported dcoument added
+2022-04-15T17:00:40,415  INFO main xmlManager.App:43 - APP_FINISHED
+2022-04-15T17:01:27,857  INFO main xmlManager.App:28 - APP_STARTED
+2022-04-15T17:01:27,862  INFO main xmlManager.command.read.ReadXml:25 - read xml
+2022-04-15T17:01:27,866  INFO main xmlManager.events.EventsReceiver:67 - fire_events
+2022-04-15T17:01:27,866  INFO main xmlManager.event.read.ReadXmlEvent:21 - firing event
+2022-04-15T17:01:27,866  INFO main xmlManager.Observer:54 - fire imported dcoument added0
+2022-04-15T17:01:27,866  INFO main xmlManager.App:43 - APP_FINISHED
+2022-04-15T17:01:43,453  INFO main xmlManager.App:28 - APP_STARTED
+2022-04-15T17:01:43,457  INFO main xmlManager.command.read.ReadXml:25 - read xml
+2022-04-15T17:01:43,461  INFO main xmlManager.events.EventsReceiver:67 - fire_events
+2022-04-15T17:01:43,461  INFO main xmlManager.event.read.ReadXmlEvent:21 - firing event
+2022-04-15T17:01:43,461  INFO main xmlManager.Observer:54 - fire imported dcoument added: 0
+2022-04-15T17:01:43,461  INFO main xmlManager.App:43 - APP_FINISHED
+2022-04-15T17:10:59,444  INFO main xmlManager.App:28 - APP_STARTED
+2022-04-15T17:10:59,451  INFO main xmlManager.command.read.ReadXml:25 - read xml
+2022-04-15T17:10:59,454  INFO main xmlManager.events.EventsReceiver:67 - fire_events
+2022-04-15T17:10:59,454  INFO main xmlManager.event.read.ReadXmlEvent:21 - firing event
+2022-04-15T17:10:59,454  INFO main xmlManager.Observer:54 - fire imported dcoument added: 1
+2022-04-15T17:10:59,454  INFO main xmlManager.Observer:58 - fire imported dcoument added_1
+2022-04-15T17:10:59,454  INFO main xmlManager.App:102 - entity added
+2022-04-15T17:10:59,454  INFO main xmlManager.App:44 - APP_FINISHED
+2022-04-15T17:11:21,721  INFO main xmlManager.App:28 - APP_STARTED
+2022-04-15T17:11:21,728  INFO main xmlManager.command.read.ReadXml:25 - read xml
+2022-04-15T17:11:21,731  INFO main xmlManager.events.EventsReceiver:67 - fire_events
+2022-04-15T17:11:21,731  INFO main xmlManager.event.read.ReadXmlEvent:21 - firing event
+2022-04-15T17:11:21,731  INFO main xmlManager.Observer:54 - fire imported dcoument added: 1
+2022-04-15T17:11:21,731  INFO main xmlManager.Observer:58 - fire imported dcoument added_1
+2022-04-15T17:11:21,732  INFO main xmlManager.App:102 - entity added_1
+2022-04-15T17:11:21,732  INFO main xmlManager.App:44 - APP_FINISHED
